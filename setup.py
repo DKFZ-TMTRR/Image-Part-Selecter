@@ -29,7 +29,7 @@ setup(
     author='Marc Boucsein, Robin Koch',
     license='BSD-3',
     url='https://github.com/MBPhys/Image-Part-Selecter',
-    description='A napari plugin in order to just select parts of images',
+    description='A napari plugin in order to select parts of images',
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
     packages=find_packages(),
